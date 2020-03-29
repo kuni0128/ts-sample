@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  }
 }
